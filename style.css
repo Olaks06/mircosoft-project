@@ -380,4 +380,9 @@ ul {
     .links .links-inner {
         margin-bottom: 20px;
     }
+
+    .gadgetbundle .content a {
+        width: 149%;
+    }
+
 }
