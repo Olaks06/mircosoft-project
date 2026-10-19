@@ -333,7 +333,7 @@ ul {
     }
 
     .gadgetbundle .content a {
-        width: 148%;
+        width: 150%;
     }
 
     .footer ul {
@@ -380,9 +380,4 @@ ul {
     .links .links-inner {
         margin-bottom: 20px;
     }
-
-    .gadgetbundle .content a {
-        width: 149%;
-    }
-
 }
